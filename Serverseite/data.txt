@@ -1,0 +1,9 @@
+solar/114190526787/0/powerdc: 124.9
+solar/114190526787/0/power: 118.8
+solar/114190526787/1/power: 66.5
+solar/114190526787/2/power: 58.4
+solar/114190526787/status/producing: 1
+solar/114190526787/status/reachable: 1
+solar/114190526787/status/limit_absolute: 800.00
+solar/114190526787/status/limit_relative: 100.00
+shellypro3em/status/em:0: {"id":0,"a_current":0.291,"a_voltage":234.6,"a_act_power":50.6,"a_aprt_power":68.4,"a_pf":0.79,"a_freq":49.9,"b_current":0.429,"b_voltage":232.4,"b_act_power":65.2,"b_aprt_power":99.9,"b_pf":0.74,"b_freq":49.9,"c_current":0.487,"c_voltage":232.0,"c_act_power":-103.5,"c_aprt_power":113.1,"c_pf":0.95,"c_freq":49.9,"n_current":null,"total_current":1.207,"total_act_power":12.281,"total_aprt_power":281.425, "user_calibrated_phase":[]}
